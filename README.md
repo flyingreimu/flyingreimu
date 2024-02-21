@@ -10,6 +10,7 @@
 [![Static Badge](https://img.shields.io/badge/Gitee-flyingreimu-C71D23?logo=gitee)](https://gitee.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/GitLab-flyingreimu-FC6D26?logo=gitlab)](https://gitlab.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Gmail-flyingreimu-EA4335?logo=gmail)](mailto:flyingreimu@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Gravatar-flyingreimu-1E8CBE?logo=gravatar)](https://gravatar.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Greasy%20Fork-flyingreimu-670000?logo=greasyfork)](https://greasyfork.org/zh-CN/users/836980-flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Instagram-flyingreimu-E4405F?logo=instagram)](https://www.instagram.com/flyingreimu/)
 [![Static Badge](https://img.shields.io/badge/Last.fm-flyingreimu-D51007?logo=last.fm)](https://www.last.fm/zh/user/flyingreimu)
