@@ -14,6 +14,7 @@
 [![Static Badge](https://img.shields.io/badge/力扣-flyingreimu-FFA116?logo=leetcode)](https://leetcode.cn/u/flyingreimu/)
 [![Static Badge](https://img.shields.io/badge/LeetCode-flyingreimu-FFA116?logo=leetcode)](https://leetcode.com/flyingreimu/)
 [![Static Badge](https://img.shields.io/badge/Duolingo-flyingreimu-58CC02?logo=duolingo)](https://www.duolingo.com/profile/flyingreimu)
+[![Static Badge](https://img.shields.io/badge/Figma-flyingreimu-F24E1E?logo=figma)](https://www.figma.com/@flyingreimu)
 ![Static Badge](https://img.shields.io/badge/Discord-flyingreimu-5865F2?logo=discord)
 
 头像角色：[博丽灵梦](https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6)
