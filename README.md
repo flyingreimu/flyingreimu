@@ -9,6 +9,7 @@
 [![Static Badge](https://img.shields.io/badge/Last.fm-flyingreimu-D51007?logo=last.fm)](https://www.last.fm/zh/user/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/SoundCloud-flyingreimu-FF3300?logo=soundcloud)](https://soundcloud.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/网易云音乐-flyingreimu-D43C33?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=629998623)
+[![Static Badge](https://img.shields.io/badge/Quora-Flyingreimu-B92B27?logo=quora)](https://www.quora.com/profile/Flyingreimu)
 [![Static Badge](https://img.shields.io/badge/GitLab-flyingreimu-FC6D26?logo=gitlab)](https://gitlab.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/力扣-flyingreimu-FFA116?logo=leetcode)](https://leetcode.cn/u/flyingreimu/)
 [![Static Badge](https://img.shields.io/badge/LeetCode-flyingreimu-FFA116?logo=leetcode)](https://leetcode.com/flyingreimu/)
