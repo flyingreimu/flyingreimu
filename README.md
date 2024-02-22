@@ -4,6 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Atlassian-flyingreimu-0052CC?logo=atlassian)](https://community.atlassian.com/t5/user/viewprofilepage/user-id/4726715)
 ![Static Badge](https://img.shields.io/badge/Bitbucket-flyingreimu@163.com-0052CC?logo=bitbucket)
+[![Static Badge](https://img.shields.io/badge/Codecademy-flyingreimu-1F4056?logo=codecademy)](https://www.codecademy.com/profiles/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Discogs-flyingreimu-333333?logo=discogs)](https://www.discogs.com/user/flyingreimu)
 ![Static Badge](https://img.shields.io/badge/Discord-flyingreimu-5865F2?logo=discord)
 [![Static Badge](https://img.shields.io/badge/Disqus-flyingreimu-2E9FFF?logo=disqus)](https://disqus.com/by/flyingreimu/)
@@ -33,6 +34,7 @@
 [![Static Badge](https://img.shields.io/badge/Patreon-flyingreimu-000000?logo=patreon)](https://www.patreon.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Pexels-Reimu%20Hakurei-05A081?logo=pexels)](https://www.pexels.com/zh-cn/@reimu-hakurei-306419414/)
 [![Static Badge](https://img.shields.io/badge/Pinterest-flyingreimu-BD081C?logo=pinterest)](https://www.pinterest.com/flyingreimu/)
+[![Static Badge](https://img.shields.io/badge/Pixabay-flyingreimu-2EC66D?logo=pixabay)](https://pixabay.com/zh/users/flyingreimu-30795885/)
 [![Static Badge](https://img.shields.io/badge/pixiv-flyingreimu-0096FA?logo=pixiv)](https://www.pixiv.net/users/49527000)
 [![Static Badge](https://img.shields.io/badge/Quora-Flyingreimu-B92B27?logo=quora)](https://www.quora.com/profile/Flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Reddit-flyingreimu-FF4500?logo=reddit)](https://www.reddit.com/user/flyingreimu)
@@ -40,6 +42,7 @@
 [![Static Badge](https://img.shields.io/badge/TED-Reimu%20Hakurei-E62B1E?logo=ted)](https://www.ted.com/profiles/23714399)
 [![Static Badge](https://img.shields.io/badge/Trello-flyingreimu-0052CC?logo=trello)](https://trello.com/u/flyingreimu/activity)
 [![Static Badge](https://img.shields.io/badge/Tumblr-flyingreimu-36465D?logo=tumblr)](https://www.tumblr.com/flyingreimu)
+[![Static Badge](https://img.shields.io/badge/Twitch-flyingreimu-9146FF?logo=twitch)](https://www.twitch.tv/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Vimeo-flyingreimu-1AB7EA?logo=vimeo)](https://vimeo.com/user177589305)
 [![Static Badge](https://img.shields.io/badge/X-flyingreimu-000000?logo=x)](https://twitter.com/flyingreimu)
 
