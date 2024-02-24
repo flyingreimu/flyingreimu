@@ -16,7 +16,7 @@
 [![Static Badge](https://img.shields.io/badge/Genius-flyingreimu-FFFF64?logo=genius)](https://genius.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Gitee-flyingreimu-C71D23?logo=gitee)](https://gitee.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/GitLab-flyingreimu-FC6D26?logo=gitlab)](https://gitlab.com/flyingreimu)
-[![Static Badge](https://img.shields.io/badge/Gmail-flyingreimu-EA4335?logo=gmail)](mailto:flyingreimu@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Gmail-flyingreimu@gmail.com-EA4335?logo=gmail)](mailto:flyingreimu@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Gravatar-flyingreimu-1E8CBE?logo=gravatar)](https://gravatar.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Greasy%20Fork-flyingreimu-670000?logo=greasyfork)](https://greasyfork.org/zh-CN/users/836980-flyingreimu)
 [![Static Badge](https://img.shields.io/badge/IMDb-flyingreimu-F5C518?logo=imdb)](https://www.imdb.com/user/ur151800201)
@@ -45,6 +45,7 @@
 [![Static Badge](https://img.shields.io/badge/Twitch-flyingreimu-9146FF?logo=twitch)](https://www.twitch.tv/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Vimeo-flyingreimu-1AB7EA?logo=vimeo)](https://vimeo.com/user177589305)
 [![Static Badge](https://img.shields.io/badge/X-flyingreimu-000000?logo=x)](https://twitter.com/flyingreimu)
+[![Static Badge](https://img.shields.io/badge/YouTube-flyingreimu-FF0000?logo=youtube)](https://www.youtube.com/@flyingreimu)
 
 头像角色：[博丽灵梦](https://thwiki.cc/%E5%8D%9A%E4%B8%BD%E7%81%B5%E6%A2%A6)
 
