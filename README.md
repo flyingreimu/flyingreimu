@@ -4,6 +4,8 @@
 
 [![Static Badge](https://img.shields.io/badge/Atlassian-flyingreimu-0052CC?logo=atlassian)](https://community.atlassian.com/t5/user/viewprofilepage/user-id/4726715)
 ![Static Badge](https://img.shields.io/badge/Bitbucket-flyingreimu@163.com-0052CC?logo=bitbucket)
+![Static Badge](https://img.shields.io/badge/可画-flyingreimu@163.com-00C4CC?logo=canva)
+![Static Badge](https://img.shields.io/badge/Canva-flyingreimu@163.com-00C4CC?logo=canva)
 [![Static Badge](https://img.shields.io/badge/Codecademy-flyingreimu-1F4056?logo=codecademy)](https://www.codecademy.com/profiles/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Discogs-flyingreimu-333333?logo=discogs)](https://www.discogs.com/user/flyingreimu)
 ![Static Badge](https://img.shields.io/badge/Discord-flyingreimu-5865F2?logo=discord)
