@@ -24,6 +24,7 @@
 [![Static Badge](https://img.shields.io/badge/IMDb-flyingreimu-F5C518?logo=imdb)](https://www.imdb.com/user/ur151800201)
 [![Static Badge](https://img.shields.io/badge/Instagram-flyingreimu-E4405F?logo=instagram)](https://www.instagram.com/flyingreimu/)
 [![Static Badge](https://img.shields.io/badge/juejin-flyingreimu-007FFF?logo=juejin)](https://juejin.cn/user/4262168035592136)
+[![Static Badge](https://img.shields.io/badge/Ko--fi-flyingreimu-FF5E5B?logo=ko-fi)](https://ko-fi.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Last.fm-flyingreimu-D51007?logo=last.fm)](https://www.last.fm/zh/user/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/力扣-flyingreimu-FFA116?logo=leetcode)](https://leetcode.cn/u/flyingreimu/)
 [![Static Badge](https://img.shields.io/badge/LeetCode-flyingreimu-FFA116?logo=leetcode)](https://leetcode.com/flyingreimu/)
