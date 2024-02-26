@@ -3,6 +3,7 @@
 在空中飞行程度的能力
 
 [![Static Badge](https://img.shields.io/badge/Atlassian-flyingreimu-0052CC?logo=atlassian)](https://community.atlassian.com/t5/user/viewprofilepage/user-id/4726715)
+[![Static Badge](https://img.shields.io/badge/Bilibili-flyingreimu-00A1D6?logo=bilibili)](https://space.bilibili.com/24507963)
 ![Static Badge](https://img.shields.io/badge/Bitbucket-flyingreimu@163.com-0052CC?logo=bitbucket)
 ![Static Badge](https://img.shields.io/badge/可画-flyingreimu@163.com-00C4CC?logo=canva)
 ![Static Badge](https://img.shields.io/badge/Canva-flyingreimu@163.com-00C4CC?logo=canva)
