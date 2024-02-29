@@ -35,6 +35,7 @@
 [![Static Badge](https://img.shields.io/badge/网易云音乐-flyingreimu-D43C33?logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=629998623)
 [![Static Badge](https://img.shields.io/badge/niconico-flyingreimu-231815?logo=niconico)](https://www.nicovideo.jp/user/92366823)
 [![Static Badge](https://img.shields.io/badge/npm-flyingreimu-CB3837?logo=npm)](https://www.npmjs.com/~flyingreimu)
+[![Static Badge](https://img.shields.io/badge/OnlyFans-flyingreimu-00AFF0?logo=onlyfans)](https://onlyfans.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Pastebin-flyingreimu-02456C?logo=pastebin)](https://pastebin.com/u/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Patreon-flyingreimu-000000?logo=patreon)](https://www.patreon.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Pexels-Reimu%20Hakurei-05A081?logo=pexels)](https://www.pexels.com/zh-cn/@reimu-hakurei-306419414/)
