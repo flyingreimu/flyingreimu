@@ -29,6 +29,7 @@
 [![Static Badge](https://img.shields.io/badge/Last.fm-flyingreimu-D51007?logo=last.fm)](https://www.last.fm/zh/user/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/LeetCode-flyingreimu-FFA116?logo=leetcode)](https://leetcode.com/flyingreimu/)
 [![Static Badge](https://img.shields.io/badge/力扣-flyingreimu-FFA116?logo=leetcode)](https://leetcode.cn/u/flyingreimu/)
+[![Static Badge](https://img.shields.io/badge/Linux-flyingreimu-FCC624?logo=linux)](https://www.linux.org/members/flyingreimu.135676/)
 [![Static Badge](https://img.shields.io/badge/Mastodon-flyingreimu-6364FF?logo=mastodon)](https://mastodon.social/@flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Medium-flyingreimu-000000?logo=medium)](https://medium.com/@flyingreimu)
 [![Static Badge](https://img.shields.io/badge/MuseScore-flyingreimu-1A70B8?logo=musescore)](https://musescore.com/user/45124799)
