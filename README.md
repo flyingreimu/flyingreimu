@@ -44,6 +44,7 @@
 [![Static Badge](https://img.shields.io/badge/Pixabay-flyingreimu-2EC66D?logo=pixabay)](https://pixabay.com/zh/users/flyingreimu-30795885/)
 [![Static Badge](https://img.shields.io/badge/pixiv-flyingreimu-0096FA?logo=pixiv)](https://www.pixiv.net/users/49527000)
 [![Static Badge](https://img.shields.io/badge/Plurk-flyingreimu-FF574D?logo=plurk)](https://www.plurk.com/flyingreimu)
+[![Static Badge](https://img.shields.io/badge/Postman-flyingreimu-FF6C37?logo=postman)](https://www.postman.com/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Quora-Flyingreimu-B92B27?logo=quora)](https://www.quora.com/profile/Flyingreimu)
 [![Static Badge](https://img.shields.io/badge/Reddit-flyingreimu-FF4500?logo=reddit)](https://www.reddit.com/user/flyingreimu)
 [![Static Badge](https://img.shields.io/badge/SoundCloud-flyingreimu-FF3300?logo=soundcloud)](https://soundcloud.com/flyingreimu)
